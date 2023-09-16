@@ -1,0 +1,27 @@
+Kelebihan Dan Kekurangan setiap Bahasa PHP <7
+
+bahasa php ver 7
+Mudah Dipelajari
+Pengembangan Produk Berjalan Cepat
+Program yang Ringkas
+Program Open Source
+bahasa php versi 8.0
+Kelebihan:
+Kompilasi Just-in-time (JIT): Elemen yang meningkatkan kinerja halaman web dan aplikasi dengan mengumpulkan bytecode ke kode mesin asli.
+Ekspresi kecocokan: Ekspresi yang mirip dengan pernyataan “switch” tetapi lebih berguna dalam beberapa kasus.
+Ekspresi lempar: Sebelumnya merupakan pernyataan, “melempar” diubah menjadi ekspresi.
+Perubahan sintaksis: Perubahan yang memungkinkan sintaksis alternatif dan lebih konsisten dalam sejumlah skenario.
+WeakMaps: Mereka meningkatkan kinerja saat data di-cache.
+Fungsi baru: Banyak fungsi baru yang menarik, seperti fdiv(); get_debug_type(); dan get_resource_id().
+kekurangan:
+Perubahan sintaksis: lebih pendek
+perubahan bahasa php versi 8.1
+Subversi ini menyertakan beberapa perbaikan kecil, seperti berikut ini, membuat bekerja dengan PHP sedikit lebih mudah bagi pengembang:
+Enums (bentuk lebih pendek dari “enumerasi”): Instrumen yang memungkinkan penerapan status dalam basis kode.
+Peningkatan properti read-only: Menambahkan dukungan untuk properti 'readonly'.
+Peningkatan pembongkaran array dengan kunci string: Menambahkan dukungan untuk pembongkaran array dengan kunci string.
+Tipe pengembalian baru: Tipe pengembalian “Tidak Pernah” telah ditambahkan.
+perubhan bahasa Php versi 8.2
+Peningkatan #1: Tipe Disjunctive Normal Form (DNF) Baru
+Peningkatan #2: Mendeklarasikan seluruh kelas sebagai 'Hanya Baca'
+Perbaikan #3: Mendefinisikan konstanta dalam sifat
